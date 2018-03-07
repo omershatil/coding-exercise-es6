@@ -1,0 +1,13 @@
+{
+  "name": "coding-exercise-omershatil",
+  "version": "0.1.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "jest": "^22.1.4"
+  },
+  "scripts": {
+    "test": "jest --watch",
+    "start": "node src/calculate_ranking.js"
+  }
+}
